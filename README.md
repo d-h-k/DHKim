@@ -3,3 +3,5 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
 - [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
+kdog1503
