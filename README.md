@@ -1,10 +1,11 @@
 <p align="center"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
 &nbsp;
+  
+[![github stats](https://github-readme-stats.vercel.app/api?username=d-h-k)](https://github.com/d-h-k/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact)](https://github.com/d-h-k/d-h-k)
+
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><p/>
 
 
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=d-h-k)](https://github.com/d-h-k/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact)](https://github.com/d-h-k/d-h-k)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k)](https://github.com/d-h-k/github-readme-stats) [![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k)](https://github.com/d-h-k/github-readme-stats)
 
