@@ -1,13 +1,7 @@
 <p align="center"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
-&nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><p/>
+&nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" />&nbsp;
+&nbsp;<img align="center" height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" /><p/>
 
-
-
-<p align="center"><img align="center" height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" /><p/>
-
-
-
-[![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k&layout=compact)]
 
 
 <!---
