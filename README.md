@@ -1,9 +1,9 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=d-h-k)](https://github.com/d-h-k/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k)](https://github.com/d-h-k/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact)](https://github.com/d-h-k/d-h-k)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
