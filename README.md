@@ -2,3 +2,5 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kdog1503})](https://solved.ac/{kdog1503})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
