@@ -5,6 +5,11 @@
 
 <p align="center"><img align="center" height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" /><p/>
 
+
+
+[![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 
 <p align="center"><img align="center" height="15" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503&show_icons=true" alt="d-h-k" /><p/>
