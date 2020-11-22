@@ -7,7 +7,7 @@
 
 
 
-[![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k&layout=compact)]
 
 
 <!---
