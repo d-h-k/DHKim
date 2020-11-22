@@ -3,11 +3,6 @@
 
 
 
-  
-[![github stats](https://github-readme-stats.vercel.app/api?username=d-h-k)](https://github.com/d-h-k/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact)](https://github.com/d-h-k/d-h-k)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k)](https://github.com/d-h-k/github-readme-stats) [![d-h-k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-h-k)](https://github.com/d-h-k/github-readme-stats)
 
 
 [![Solved.ac
