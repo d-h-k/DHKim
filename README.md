@@ -1,6 +1,8 @@
-<p align="center"><img align="center" height="125" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
-&nbsp;<img align="center" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" />&nbsp;
-&nbsp;<img align="center" height="120" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" /><p/>
+<p align="center"><img align="center" height="155" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
+&nbsp;<img align="center" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><p/>
+
+<p align="center"><img align="center" height="310" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" /><p/>
+
 
 
 
