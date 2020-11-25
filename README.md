@@ -6,8 +6,8 @@
 
 ## 안녕하세요! 백엔드 개발자 김동훈 입니다.
 
-- 포트폴리오 페이지 : https://d-h-k.github.io./
-- 노션 페이지(자기소개) : https://www.notion.so/a4d6a115a8bb46a2adb5e8213a353ac2
+- 2th Web 포트폴리오 : https://d-h-k.github.io./
+- 자기소개 노션 페이지 : https://www.notion.so/a4d6a115a8bb46a2adb5e8213a353ac2
 
 <!---
 df
