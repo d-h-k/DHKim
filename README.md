@@ -6,6 +6,9 @@
 
 
 
+포트폴리오 페이지 : https://d-h-k.github.io./
+노션 페이지(자기소개) : https://www.notion.so/a4d6a115a8bb46a2adb5e8213a353ac2
+
 <!---
 df
 <p align="center"><img align="center" height="15" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503&show_icons=true" alt="d-h-k" /><p/>
