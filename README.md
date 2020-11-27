@@ -10,7 +10,7 @@
 <p align="left"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
 &nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
 
-<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1504" alt="d-h-k" />&nbsp;
+<p align="left"><img align="center" width="350" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" />&nbsp;
 &nbsp;<p/>
 
 
