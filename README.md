@@ -14,7 +14,7 @@
 &nbsp;<p/>
 
 
-
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" />
 
 
 <!---
