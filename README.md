@@ -12,7 +12,7 @@
 
 
 
-<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" />&nbsp;
+gg<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503" alt="d-h-k" />&nbsp;
 &nbsp;<p/>
 
 
