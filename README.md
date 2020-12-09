@@ -11,6 +11,7 @@
 &nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
 
 <p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
+&nbsp;<p/><p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
 &nbsp;<p/>
 
 
