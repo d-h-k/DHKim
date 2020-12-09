@@ -10,15 +10,19 @@
 <p align="left"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
 &nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
 
-<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
-&nbsp;<p/><p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
-&nbsp;<p/>
 
 
+<p align="center"><img align="center" height="15" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503&show_icons=true" alt="d-h-k" /><p/>
 
 <!---
 df
 <p align="center"><img align="center" height="15" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503&show_icons=true" alt="d-h-k" /><p/>
+
+<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
+&nbsp;<p/>
+
+<p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
+&nbsp;<p/>
 
 
 <p align="center"><img align="center" height="15" src="http://@@@" alt="d-h-k" /><p/>
