@@ -24,13 +24,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503)](https://github.com/mazassumnida/mazassumnida)
-<!---
-df
-
-
-<p align="center"><img align="center" height="15" src="http://@@@" alt="d-h-k" /><p/>
-
-
 
 
 [![Solved.ac
@@ -38,6 +31,14 @@ df
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
+
+<!---
+df
+
+
+<p align="center"><img align="center" height="15" src="http://@@@" alt="d-h-k" /><p/>
+
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
