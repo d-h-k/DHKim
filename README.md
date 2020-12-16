@@ -22,6 +22,8 @@
 <p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
 &nbsp;<p/>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503)](https://github.com/mazassumnida/mazassumnida)
 <!---
 df
 
@@ -30,8 +32,6 @@ df
 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503)](https://github.com/mazassumnida/mazassumnida)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
