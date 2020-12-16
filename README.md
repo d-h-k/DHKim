@@ -19,11 +19,11 @@
 <p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
 &nbsp;<p/>
 
-<!---
-df
-
 <p align="left"><img align="center" width="350" src="http://mazassumnida.wtf/api/generate_badge?boj=kdog1503" />&nbsp;
 &nbsp;<p/>
+
+<!---
+df
 
 
 <p align="center"><img align="center" height="15" src="http://@@@" alt="d-h-k" /><p/>
