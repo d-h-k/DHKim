@@ -1,5 +1,5 @@
 ## 안녕하세요! 백엔드 개발자 김동훈 입니다.
-- 1기 임베디드 포트폴리오 : 비공개 <!--- [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
+- 1기 임베디드 포트폴리오 : 비공개 
 - 2기 백엔드 포트폴리오 : https://d-h-k.github.io
 
 ### 페이지 개발중.....
@@ -9,6 +9,8 @@
 <!---- 1th Ebd 포트폴리오 : (비공개) --->
 <p align="left"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
 &nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
+
+<!--- [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503)](https://github.com/mazassumnida/mazassumnida)
