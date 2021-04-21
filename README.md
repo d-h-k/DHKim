@@ -1,7 +1,7 @@
 ## 안녕하세요! 백엔드 개발자 김동훈 입니다.
 - 1기 임베디드 포트폴리오 : 비공개 
 - 2기 백엔드 포트폴리오 : https://d-h-k.github.io >> 페이지 개발중.....
-  - 링크 : https://github.com/d-h-k/d-h-k.github.io
+  -  : https://github.com/d-h-k/d-h-k.github.io
 
 
 <!---- 1th Ebd 포트폴리오 : (비공개) --->
