@@ -1,8 +1,8 @@
 # 안녕하세요! 백엔드 개발자 김동훈 입니다.
 ## Portfolio
-<!---- - 1기 임베디드 포트폴리오 : 비공개  --->
-- 백엔드 포트폴리오 : https://d-h-k.github.io >> 페이지 개발중.....
-  -  : https://github.com/d-h-k/d-h-k.github.io
+- 1기 Embedded 포트폴리오 : https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing
+- 2기 Back-End 포트폴리오 : https://d-h-k.github.io (개발 진행중..)
+
 ## History
 - 2011.03 ~ 2017.02 : 인덕대학교 메카트로닉스공학과 졸업
 - 2016.12 ~ 2018.12 : Motion-Device.Co S/W 개발팀
