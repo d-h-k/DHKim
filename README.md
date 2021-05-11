@@ -1,4 +1,4 @@
-# 안녕하세요! 개발자 d-h-k 입니다
+# 안녕하세요! 개발자 김동훈 입니다
 - 백엔드 개발자로 커리어 전향하고 있습니다. 
 ## 포트폴리오
 - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing)
