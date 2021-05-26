@@ -23,8 +23,11 @@
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/SpringBoot_Playgound
+<h3 align="center">:smirk: Tech Stack :smirk:</h3>
+<p align="center"> ~(ㅇㅅㅇ)~ </p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=flat-square&logo=Vaadin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
@@ -45,8 +48,8 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp 
-
+  <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp  
+ 
 ## 기타활동
 - 백기선 자바스터디 참여
 - 백준 알고리즘 (골드)
