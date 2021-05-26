@@ -52,6 +52,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdog1503)](https://github.com/mazassumnida/mazassumnida)
 
 --->
+<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdog1503)](https://solved.ac/kdog1503)
 
