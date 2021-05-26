@@ -1,4 +1,11 @@
 # 안녕하세요 김동훈 입니다
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+
 - 메카트로닉스를 전공했고
 - 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 개발 2년
 - 백엔드 개발자로 커리어 전향(코드스쿼드 마스터즈 과정)중에 있습니다
@@ -16,6 +23,30 @@
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/SpringBoot_Playgound
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=flat-square&logo=Vaadin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=SonarQube&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/OpenCv-5C3EE8?style=flat-square&logo=OpenCv&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics&logoColor=white"/></a>&nbsp 
+
 ## 기타활동
 - 백기선 자바스터디 참여
 - 백준 알고리즘 (골드)
