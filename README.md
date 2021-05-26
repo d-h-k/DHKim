@@ -23,12 +23,12 @@
 - 한컴MDS 최우수작품상
 <br><br>
 <!---- 1th Ebd 포트폴리오 : (비공개) --->
-<p align="center"><img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />
+<p align="left"><img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />
 <br><p/>  
   
   &nbsp;
 &nbsp;
-<p align="center"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
+<p align="left"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
 
 <!--- [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
 
