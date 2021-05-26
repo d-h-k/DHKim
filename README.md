@@ -18,10 +18,11 @@
 - STMicro 우수상
 - 한컴
 <br><br>
-## 집중해서 학습중인 
+## 집중하고 있는 기술
 - Java : 
 - Database : 
 - Spring : 
+
 <!---- 1th Ebd 포트폴리오 : (비공개) --->
 <p align="left"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
 &nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-h-k&layout=compact" /><br><p/>
