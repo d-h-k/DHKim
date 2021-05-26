@@ -9,7 +9,7 @@
 - 백엔드 개발자로 커리어 전향(코드스쿼드 마스터즈 과정)중에 있습니다
 <br><br><br>
 ## 포트폴리오
-- 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing)
+<!---- - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
 - 2기 Back-End 포트폴리오 : https://d-h-k.github.io (개발 진행중..)
 <br><br><br>
 ## 교육
