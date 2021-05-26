@@ -10,7 +10,7 @@
 <br><br><br>
 ## 포트폴리오
 <!---- - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
-- 2기 Back-End 포트폴리오 : https://d-h-k.github.io (개발 진행중..)
+- Back-End 개발자 포트폴리오 : https://d-h-k.github.io (개발 진행중..)
 <br><br><br>
 ## 교육
 - 2011.03 ~ 2017.02 : 인덕대학교 메카트로닉스공학과 졸업
