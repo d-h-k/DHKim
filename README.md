@@ -1,7 +1,7 @@
 # 안녕하세요 김동훈 입니다
-- 메카트로닉스(기계+전자) 공학을 전공했고
-- 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 개발을 2년동안 하고
-- 백엔드 개발자로 커리어 전향을 위해 코드스쿼드 마스터즈 과정을 진행중에 있습니다
+- 메카트로닉스를 전공했고
+- 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 개발 2년
+- 백엔드 개발자로 커리어 전향(코드스쿼드 마스터즈 과정)중에 있습니다
 <br><br>
 ## 포트폴리오
 - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing)
