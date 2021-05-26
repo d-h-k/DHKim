@@ -1,7 +1,7 @@
 # 안녕하세요 d-h-k 입니다
 - 🔭 I’m currently working on : codesquad
 - 🌱 I’m currently learning : Java, Database, Spring
-- 👯 I’m looking to collaborate on : IT service engineering to improve the quality of life
+- 👯 I’m looking to collaborate on : IT service engineering for better life
 - ⚡ Fun things : clean code, OOP, DDD, TDD
 ### 간단한 이력
 - 메카트로닉스를 전공했고
