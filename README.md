@@ -18,7 +18,7 @@
 - STMicro 우수상
 - 한컴
 <br><br>
-## 집중하는 부분 
+## 집중해서 학습중인  
 - Java : 
 - Database : 
 - Spring : 
