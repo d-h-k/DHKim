@@ -19,9 +19,9 @@
 - 한컴MDS 최우수작품상
 <br><br>
 ## 집중하고 있는 기술
-- Java : 
-- Database : 
-- Spring : 
+- Java : https://github.com/d-h-k/Java_Playground
+- Database : https://github.com/d-h-k/Database_Playground
+- Spring : https://github.com/d-h-k/SpringBoot_Playgound
 
 <!---- 1th Ebd 포트폴리오 : (비공개) --->
 <p align="left"><img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />&nbsp;
