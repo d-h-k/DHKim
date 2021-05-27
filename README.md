@@ -17,8 +17,8 @@
 - 2016.12 ~ 2018.12 : Motion-Device.Co S/W 개발팀
 - 한컴, 코드스쿼드
 <br><br><br>
-## 집중하고 있는 기술
-
+## 기술
+### 사용하고 있는
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>&nbsp
-
+### 집중하고, 더 잘하고 
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/SpringBoot_Playgound
