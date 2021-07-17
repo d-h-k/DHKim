@@ -2,8 +2,10 @@
 - 🔭 I’m currently working on : codesquad
 - 🌱 I’m currently learning : Java, Database, Spring
 - 👯 I’m looking to collaborate on : Engineering for better life
-- ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD
+<!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
+
 ### 간단한 이력
+
 - 메카트로닉스를 전공했고
 - 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 개발 2년
 - 백엔드 개발자로 커리어 전향(코드스쿼드 마스터즈 과정)중에 있습니다
