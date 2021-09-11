@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>&nbsp
-  <img src="https://user-images.githubusercontent.com/31065684/132935622-368a3869-3232-4889-83bb-ec694b4cc5c9.png" height=100/></a>&nbsp
+  <img src="https://user-images.githubusercontent.com/31065684/132935622-368a3869-3232-4889-83bb-ec694b4cc5c9.png" height=20/></a>&nbsp
   
 ### 더 잘하고 싶고, 집중하고 있는 기술 **`Java,Spring,Database`** 입니다
 - Java : https://github.com/d-h-k/Java_Playground
