@@ -1,26 +1,36 @@
 # 안녕하세요 d-h-k 입니다
-- 🔭 I’m currently working on : codesquad
-- 🌱 I’m currently learning : Java, Database, Spring
-- 👯 I’m looking to collaborate on : Engineering for better life
+- 🔭 지금 소속된 회사는 : Bfactory 
+- 🌱 요즘 공부하는 기술은 : Java, Database, Spring
+- 👯 개발에 관한 생각은 : 더 디테일하고, 더 심플하게, 클린코딩
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
-### 간단한 이력
-
-- 메카트로닉스를 전공했고
-- 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 개발 2년
-- 백엔드 개발자로 커리어 전향(코드스쿼드 마스터즈 과정)중에 있습니다
+### 간단이력
+- 고등학교때는 컴퓨터와 게임을 좋아했고
+- 메카트로닉스공학을 전공하며 주로 MCU, LabVIEW 를 다루다
+- 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 연구원으로 일했습니다
+- 백엔드 개발자로 커리어 전향하여
+- 지금은 Java/Spring Backend 개발자로 일하고 있습니다
+ 
 <br><br><br>
+
 ## 포트폴리오
 <!---- - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
 - Back-End 개발자 포트폴리오 : https://d-h-k.github.io 
+
 <br><br><br>
+
 ## 교육
 - 2011.03 ~ 2017.02 : 인덕대학교 메카트로닉스공학과 졸업
 - 2016.12 ~ 2018.12 : Motion-Device.Co S/W 개발팀
-- 한컴, 코드스쿼드
+- 2019.05 ~ 2021.06 : 한컴, 코드스쿼드 교육
+
+
 <br><br><br>
+
 ## 기술
-### 사용하고 있는
+
+### 사용하고 있는 기술은
+
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -30,11 +40,13 @@
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/></a>&nbsp
 
-### 집중하고, 더 잘하고 싶은
+### 더 잘하고 싶고, 집중하고 있는 기술 **`Java,Spring,Database`** 입니다
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/SpringBoot_Playgound
+
 <br><br><br>
+
 ## 기타활동
 - 백기선 자바스터디 참여
 - 백준 알고리즘 (골드)
