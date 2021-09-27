@@ -10,7 +10,7 @@
 - 메카트로닉스공학을 전공하며 주로 MCU, LabVIEW 를 다루다
 - 자동차 시뮬레이터 회사에서 MiddleWare & Embedded S/W 연구원으로 일했습니다
 - 백엔드 개발자로 커리어 전향하여
-- 지금은 Java/Spring Backend 개발자로 일하고 있습니다
+- 지금은 POD 스타트업 BFactory 에서 Backend 개발자로 일하고 있습니다
  
 <br><br><br>
 
