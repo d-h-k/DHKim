@@ -1,7 +1,7 @@
 # 안녕하세요 d-h-k 입니다
 - 🔭 지금 소속된 회사 : Bfactory 
 - 🌱 요즘 공부하는 기술 : Java, Database, Spring
-- 👯 개발에 관한 생각 : 더 디테일하고, 더 심플하게, 클린코딩
+- 👯 개발에 관한 생각 : 백문이 불여일타
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
 
