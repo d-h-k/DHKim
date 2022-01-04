@@ -5,7 +5,7 @@
 
 ### 간단이력
 - 메카트로닉스공학 전공 : MCU Firmware, 전자공학 분야를 주로 학습 했습니다
-- 자동차 시뮬레이터 회사 : MiddleWare (LabVIEW 언어) & Embedded S/W (firmware) 개발 2년 
+- 자동차 시뮬레이터 회사 : MiddleWare & Embedded S/W (firmware) 개발 2년 
 - Java 백엔드 개발자 : 백엔드 개발자로 성정하기 위해 코드스쿼드를 수료하고 개발경험을 쌓고 있습니다
  
 <br><br><br>
