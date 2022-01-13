@@ -43,7 +43,7 @@
 ### 더 잘하고 싶고, 집중하고 있는 기술 **`Java,Spring,Database`** 입니다
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
-- Spring : https://github.com/d-h-k/SpringBoot_Playgound
+- Spring : https://github.com/d-h-k/Spring_PlayGround
 
 <br><br><br>
 
