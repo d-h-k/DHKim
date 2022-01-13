@@ -10,9 +10,9 @@
  
 <br><br><br>
 
-## 포트폴리오
+## 소개페이지
 <!---- - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
-- 포트폴리오 : https://d-h-k.github.io/portpolio
+- 저를 소개합니다 : https://d-h-k.github.io
 - 개발 블로그 : https://velog.io/@d-h-k
 <br><br><br>
 
