@@ -4,23 +4,24 @@
 
 
 ### 간단이력
-- 메카트로닉스공학 전공 : MCU Firmware, 전자공학 분야를 주로 학습 했습니다
-- 자동차 시뮬레이터 회사 : MiddleWare & Embedded S/W (firmware) 개발 2년 
-- Java 백엔드 개발자 : 백엔드 개발자로 성정하기 위해 코드스쿼드를 수료하고 개발경험을 쌓고 있습니다
+- 인덕대학교 메카트로닉스공학 전공
+- 자동차 시뮬레이터 MiddleWare S/W 엔지니어 2년 
+- 한컴MDS 자율주행차 S/W 전문가 과정
+- 코드스쿼드 백엔드 마스터즈 과정
+
+- WEB/Beckend 개발자로 근무 중
  
 <br><br><br>
-
+<!----
 ## 소개페이지
-<!---- - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) --->
+ - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) 
 - 저를 소개합니다 : https://d-h-k.github.io
 - 개발 블로그 : https://velog.io/@d-h-k
 <br><br><br>
+--->
 
 
-
-## 기술
-
-### 사용하고 있는 기술은
+## 사용기술
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -40,18 +41,18 @@
   
 
   
-### 더 잘하고 싶고, 집중하고 있는 기술 **`Java,Spring,Database`** 입니다
+## 집중하는 분야 : **`Java,Spring,Database`** 
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/Spring_PlayGround
 
 <br><br><br>
 
-## 교육
-- 2011.03 ~ 2017.02 : 인덕대학교 메카트로닉스공학과 졸업
-- 2016.12 ~ 2019.01 : Motion-Device.Co S/W 개발팀
-- 2019.05 ~ 2020.01 : 한컴MDS 자율주행차 S/W 개발 과정
-- 2020.11 ~ 2021.06 : 코드스쿼드 백엔드 마스터즈 과정
+## 발표
+- 2019 : 
+- 2020 : 
+- 2021 : 
+- 2022 : 
 
 
 <br><br><br>
