@@ -1,5 +1,4 @@
 # 안녕하세요 d-h-k 입니다
-- 🌱 기술스텍 : Java, MySQL, Spring boot
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
 
@@ -21,7 +20,7 @@
 
 
 ## 사용기술
-
+- 🌱 기술스텍 : Java, MySQL, Spring boot
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/Spring_PlayGround
