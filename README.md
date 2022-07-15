@@ -1,5 +1,5 @@
 # 안녕하세요 d-h-k 입니다
-- 🌱 기술스텍 : Java, MySQL, Spring
+- 🌱 기술스텍 : Java, MySQL, Spring boot
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
 
