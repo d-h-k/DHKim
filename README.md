@@ -19,13 +19,11 @@
 --->
 
 
-## 사용기술
-- 🌱 기술스텍 : Java, MySQL, Spring boot
+## 🌱 tech stack
 - Java : https://github.com/d-h-k/Java_Playground
 - Database : https://github.com/d-h-k/Database_Playground
 - Spring : https://github.com/d-h-k/Spring_PlayGround
 - k8s : 
-
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
