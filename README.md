@@ -2,7 +2,7 @@
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
 
-### 간단이력
+### antecedents
 - 인덕대학교 메카트로닉스공학 전공
 - 자동차 시뮬레이터 MiddleWare S/W 엔지니어 2년 
 - 한컴MDS 자율주행차 S/W 전문가 과정 수료
