@@ -9,7 +9,7 @@
 - 대학교에서 메카트로닉스공학을 전공했고
 - 첫 직장은 자동차 시뮬레이터 회사에서 2년동안 MiddleWare, MCU Firmware 및 Motion control 경험을 쌓았습니다
 - 이후 반도체회사에서 Motor Driver Feild Application Engeener 로 근무하며, 삼성멀티캠퍼스에서 임베디드 & CLang 강의를 진행하였습니다
-- 이후 개발자 부트캠프를 거처  개발자로 근무 중 입니다
+- 이후 개발자 부트캠프를 거처 백엔드 직무로 일을 하고 있습니다
 
  
 <br><br><br>
