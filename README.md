@@ -5,11 +5,12 @@
 
 
 ## antecedents
-- 인덕대학교 메카트로닉스공학 전공
-- 자동차 시뮬레이터 MiddleWare S/W 엔지니어 2년 
-- 한컴MDS 자율주행차 S/W 전문가 과정 수료
-- 코드스쿼드 백엔드 마스터즈 과정 수료
-- WEB 개발자로 근무 중
+
+- 대학교에서 메카트로닉스공학을 전공했고
+- 첫 직장은 자동차 시뮬레이터 회사에서 2년동안 MiddleWare, MCU Firmware 및 Motion control 경험을 쌓았습니다
+- 이후 반도체회사에서 Motor Driver Feild Application Engeener 로 근무하며, 삼성멀티캠퍼스에서 임베디드 & CLang 강의를 진행하였습니다
+- 이후 개발자 부트캠프를 거처  개발자로 근무 중 입니다
+
  
 <br><br><br>
 
@@ -22,9 +23,6 @@
 --->
 
 ## tech stack
-- [Java](https://github.com/d-h-k/Java_Playground) , 
-[Database](https://github.com/d-h-k/Database_Playground)
-[Spring](https://github.com/d-h-k/Spring_PlayGround)
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -32,7 +30,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
-  
+
+- [Java](https://github.com/d-h-k/Java_Playground) , 
+[Database](https://github.com/d-h-k/Database_Playground), 
+[Spring](https://github.com/d-h-k/Spring_PlayGround)
 
   <!---
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
