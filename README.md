@@ -4,7 +4,7 @@
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
 
-## antecedents
+## Antecedents
 
 - 대학교에서 메카트로닉스공학을 전공했고
 - 첫 직장은 자동차 시뮬레이터 회사에서 2년동안 MiddleWare, MCU Firmware 및 Motion control 경험을 쌓았습니다
@@ -22,7 +22,7 @@
 <br><br><br>
 --->
 
-## tech stack
+## Tech Stack
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
