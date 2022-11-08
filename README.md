@@ -1,8 +1,10 @@
 # 반갑습니다 
+
+<!--- 좋아하는거 나를 한마디로 정의하는 부분, 딱히쓸게 없어서 Pass --->
 <!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
 
 
-### antecedents
+## antecedents
 - 인덕대학교 메카트로닉스공학 전공
 - 자동차 시뮬레이터 MiddleWare S/W 엔지니어 2년 
 - 한컴MDS 자율주행차 S/W 전문가 과정 수료
@@ -10,6 +12,7 @@
 - WEB 개발자로 근무 중
  
 <br><br><br>
+
 <!----
 ## 소개페이지
  - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) 
@@ -18,12 +21,11 @@
 <br><br><br>
 --->
 
+## tech stack
+- [Java](https://github.com/d-h-k/Java_Playground) , 
+[Database](https://github.com/d-h-k/Database_Playground)
+[Spring](https://github.com/d-h-k/Spring_PlayGround)
 
-## 🌱 tech stack
-- Java : https://github.com/d-h-k/Java_Playground
-- Database : https://github.com/d-h-k/Database_Playground
-- Spring : https://github.com/d-h-k/Spring_PlayGround
-- k8s : 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
