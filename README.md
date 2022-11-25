@@ -9,7 +9,7 @@
 - 대학교에서 메카트로닉스공학을 전공했고
 - 자동차 시뮬레이터 회사에서 MiddleWare, MCU Firmware 및 Motion control 2년
 - Fabless 회사에서 Motor Driver Engeener & 멀티캠퍼스 임베디드 & Web 강의 2년
-- 지금은 백엔드 개발자로 일하고 있습니다
+- 지금은 웹  개발자로 일하고 있습니다. 
 
  
 <br><br><br>
@@ -24,6 +24,7 @@
 
 ## Tech
 
+<!---
 - 언어
   - [Java](https://github.com/d-h-k/Java_Playground) , 
   - [JavaScript](https://github.com/d-h-k/_Playground)
@@ -36,6 +37,7 @@
 - 이외  
   - [Database](https://github.com/d-h-k/Database_Playground), 
   - [miscellaneous](https://github.com/d-h-k/_Playground)
+--->
 
   <!---
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
