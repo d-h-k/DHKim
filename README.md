@@ -7,9 +7,9 @@
 ## Antecedents
 
 - 대학교에서 메카트로닉스공학을 전공했고
-- 첫 직장은 자동차 시뮬레이터 회사에서 2년동안 MiddleWare, MCU Firmware 및 Motion control 경험을 쌓았습니다
-- 이후 반도체회사에서 Motor Driver Engeener, 멀티캠퍼스에서 임베디드 & CLang 강의를 진행하였습니다
-- 이후 개발자 부트캠프를 거처 백엔드 직무로 일을 하고 있습니다
+- 자동차 시뮬레이터 회사에서 MiddleWare, MCU Firmware 및 Motion control 2년
+- Fabless 회사에서 Motor Driver Engeener & 멀티캠퍼스 임베디드 & Web 강의 2년
+- 백엔드 개발자로 일하는 중 
 
  
 <br><br><br>
@@ -54,9 +54,9 @@
 <br><br><br>
 
 ## 기타활동
-- 백준 알고리즘 (골드)
-- STMicro TouchGFX APP 개발대회 우수상 : 쿠킹타이머
-- 한컴MDS 최우수작품상 : 물류센터향 자율주행 군집로봇
+- 백준 알고리즘 골드
+- TouchGFX APP 개발대회 우수상 (by STMicroelectronics Korea) 
+- 물류센터 자율주행 군집로봇 최우수작품상 (by 한컴MDS)
 
 <br><br><br><br>
 <!---- 1th Ebd 포트폴리오 : (비공개) 
