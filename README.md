@@ -22,18 +22,20 @@
 <br><br><br>
 --->
 
-## Tech Stack
+## Tech
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/></a>&nbsp
-
-- [Java](https://github.com/d-h-k/Java_Playground) , 
-[Database](https://github.com/d-h-k/Database_Playground), 
-[Spring](https://github.com/d-h-k/Spring_PlayGround)
+- 언어
+  - [Java](https://github.com/d-h-k/Java_Playground) , 
+  - [JavaScript](https://github.com/d-h-k/_Playground)
+  - [Rust](https://github.com/d-h-k/_Playground)
+- 웹 프레임워크
+  - [Spring](https://github.com/d-h-k/Spring_PlayGround)
+  - [Vue](https://github.com/d-h-k/_Playground)
+  - [React](https://github.com/d-h-k/_Playground)
+  - [Ktor](https://github.com/d-h-k/_Playground)
+- 이외  
+  - [Database](https://github.com/d-h-k/Database_Playground), 
+  - [miscellaneous](https://github.com/d-h-k/_Playground)
 
   <!---
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
