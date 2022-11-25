@@ -12,8 +12,6 @@
 - 지금은 웹  개발자로 일하고 있습니다. 
 
  
-<br><br><br>
-
 <!----
 ## 소개페이지
  - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) 
