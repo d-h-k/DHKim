@@ -22,9 +22,9 @@
 <br><br><br>
 --->
 
+<!---
 ## Tech
 
-<!---
 - 언어
   - [Java](https://github.com/d-h-k/Java_Playground) , 
   - [JavaScript](https://github.com/d-h-k/_Playground)
@@ -64,7 +64,7 @@
 
 <br><br><br><br>
 <!---- 1th Ebd 포트폴리오 : (비공개) 
-<p align="left"><img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=d-h-k&show_icons=true" alt="d-h-k" />
+<p align="left"><img align="center" width="375" src="h" alt="d-h-k" />
 <br><p/>  
   
   &nbsp;
