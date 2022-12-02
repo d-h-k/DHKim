@@ -1,8 +1,6 @@
 # 반갑습니다 
 
-<!--- 좋아하는거 나를 한마디로 정의하는 부분, 딱히쓸게 없어서 Pass --->
-<!---- - ⚡ Fun things : clean code, Database(RDB) ,OOP, DDD, TDD --->
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ## Antecedents
 
