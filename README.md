@@ -1,6 +1,6 @@
 # introduce
 
-![관종템](https://github.com/d-h-k/d-h-k/issues/1#issuecomment-1576906395)
+![관종템](https://user-images.githubusercontent.com/31065684/243382223-b6db21de-1424-4fc2-9cc5-72c15537f688.jpeg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fd-h-k&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
 
