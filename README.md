@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/31065684/243382223-b6db21de-1424-4fc2-9cc5-72c15537f688.jpeg"  width="650" />
 
-<br>
+<br><br>
 
 ## Antecedents
 
@@ -13,12 +13,15 @@
 - Fabless 회사에서 Motor Driver Engeener & 멀티캠퍼스 임베디드 & Web 강의도 하고
 - 지금은 Web 개발자로 일하고 있습니다
 
+<br><br>
+
 ## Recently
 - `코드리뷰`를 주고 받으며, `깊게 고민`하며 개발자로서의 성장을 추구합니다
 - 사용자들에게 `가치있는` , `비지니스 요구사항을 만족`시키는 `소프트웨어`를 만들기 위해 노력합니다
 - 적극적으료 표현하고, 지적으로 겸손하고, 유연하게 수용하는 `커뮤니케이션`을 추구합니다
- 
 <!----
+- 주도적적으로 참여할수 있고. Risk management 가 가능한 상황을 선호합니다
+
 ## 소개페이지
  - 1기 Embedded 포트폴리오 : [링크](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) 
 - 저를 소개합니다 : https://d-h-k.github.io
@@ -50,7 +53,7 @@
   <img src="https://user-images.githubusercontent.com/31065684/132935622-368a3869-3232-4889-83bb-ec694b4cc5c9.png" height=20/></a>&nbsp
   --->  
  
-<br><br><br>
+<br><br>
 
 ## Presentation & Award
 - 2019
