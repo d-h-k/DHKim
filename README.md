@@ -48,8 +48,10 @@
  
 <br><br><br>
 
-## 발표
-- 2019 : 
+## Presentation & Award
+- 2019
+  - TouchGFX APP 개발대회 우수상 / by STMicroelectronics
+  - 물류센터 자율주행 군집로봇 최우수작품상 / by 한컴MDS 
 - 2020 : 
 - 2021 : 
 - 2022 : 
@@ -57,10 +59,10 @@
 
 <br><br><br>
 
-## 기타활동
-- 백준 알고리즘 골드
-- TouchGFX APP 개발대회 우수상 (by STMicroelectronics Korea) 
-- 물류센터 자율주행 군집로봇 최우수작품상 (by 한컴MDS)
+
+
+
+
 
 <br><br><br><br>
 <!---- 1th Ebd 포트폴리오 : (비공개) 
