@@ -66,7 +66,7 @@
   - TouchGFX APP 개발대회 우수상 / 쿠킹타이머 / by STMicroelectronics
     - [repo](https://github.com/d-h-k/STM32F7508) 
   - 물류센터 자율주행 군집로봇 최우수작품상 / by 한컴MDS
-    - [데모 시연 Link]()  //  [오픈로보틱스 발표영상 Link]() 
+    - [데모 시연 Link]()  /  [오픈로보틱스 발표영상 Link]() 
 - before 2018
   - ICT 창업경진대회 우수상 / 스마트 밀폐교반기 씰링장치 / by 미래창조과학부 장관
 
