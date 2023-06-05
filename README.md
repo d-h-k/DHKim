@@ -60,7 +60,7 @@
   - `(예정)` 지속가능한 프로덕트와 개발을 위하여 
 - 2021 
   - 리눅스로 개발하기 / 코드스쿼드 테크톡
-    - [테크톡 발표 Link](https://youtu.be/mPrmi0vrlQM) / `리눅스 입문자를 대상으로 Linux Mint 배포판에서 개발이 가능하도록 개발용 PC를 세팅하는 이야기 입니다`
+    - [테크톡 발표](https://youtu.be/mPrmi0vrlQM) / `리눅스 입문자를 대상으로 Linux Mint 배포판에서 개발이 가능하도록 개발용 PC를 세팅하는 이야기 입니다`
 - 2020 
   - E-Commerce Backend 개발 Challenge `2등` / by Numble
     - [Demo](https://youtu.be/dDeGkstXIM4) / [Repo](https://github.com/d-h-k/just-board)
