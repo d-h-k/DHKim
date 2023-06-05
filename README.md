@@ -56,11 +56,18 @@
 <br><br>
 
 ## Presentation & Award
+- 2018
+  - ICT 창업경진대회 우수상 / 스마트 밀폐교반기 씰링장치 / by 미래창조과학부 장관
 - 2019
-  - TouchGFX APP 개발대회 우수상 / by STMicroelectronics
+  - TouchGFX APP 개발대회 우수상 / 쿠킹타이머 / by STMicroelectronics
+    [repo](https://github.com/d-h-k/STM32F7508) 
   - 물류센터 자율주행 군집로봇 최우수작품상 / by 한컴MDS 
 - 2020 
+- 
 - 2021 
+  - 리눅스로 개발하기 / 코드스쿼드 테크톡
+    [Link]()
+    `리눅스 입문자를 대상으로 Linux Mint 배포판에서 개발이 가능하도록 개발용 PC를 세팅하는 이야기 입니다`
 - 2022 
 - 2023
 
