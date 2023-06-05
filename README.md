@@ -9,9 +9,9 @@
 ## Antecedents
 
 - 대학교에서 메카트로닉스공학을 전공했고
-- 자동차 시뮬레이터 회사에서 MiddleWare, MCU Firmware 및 Motion control 2년
-- Fabless 회사에서 Motor Driver Engeener & 멀티캠퍼스 임베디드 & Web 강의 2년
-- 지금은 웹  개발자로 일하고 있습니다. 
+- 자동차 시뮬레이터 회사에서 MiddleWare, MCU Firmware 및 Motion control 관련 일을 하다
+- Fabless 회사에서 Motor Driver Engeener & 멀티캠퍼스 임베디드 & Web 강의도 하고
+- 지금은 Web 개발자로 일하고 있습니다
 
  
 <!----
