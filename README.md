@@ -62,6 +62,8 @@
   - 리눅스로 개발하기 [발표영상 Link](https://youtu.be/mPrmi0vrlQM) / 코드스쿼드 테크톡
     - `리눅스 입문자를 대상으로 Linux Mint 배포판에서 개발이 가능하도록 개발용 PC를 세팅하는 이야기 입니다`
 - 2020 
+  - E-Commerce Backend 개발 Challenge 2등 / by Numble
+    - [repo] 
 - 2019
   - TouchGFX APP 개발대회 우수상 / 쿠킹타이머 / by STMicroelectronics
     - [repo](https://github.com/d-h-k/STM32F7508) 
