@@ -28,9 +28,9 @@ v1 phase 에서 퀄리티가 만족스럽다면?? 만들어드릴 분들 >> 호�
 ## Antecedents
 
 - 대학교에서 메카트로닉스공학을 전공했고
-- 자동차 시뮬레이터 회사에서 MiddleWare, MCU Firmware. Motion control, KIOSK App  관련 일을 하다
-- Fabless 회사에서 Motor Driver Engeener & 멀티캠퍼스 임베디드 & Web 강의도 하고
-- 지금은 Web 개발자로 일하고 있습니다
+- 자동차 시뮬레이터 회사에서 MiddleWare, MCU Firmware. Motion control, KIOSK App 개발 관련 일을 하다
+- 지금은 Web 개발자로 백엔드를 개발하고 있습니다
+
 
 <br><br>
 
