@@ -86,7 +86,7 @@ v1 phase 에서 퀄리티가 만족스럽다면?? 만들어드릴 분들 >> 호�
 - 2019
   - TouchGFX APP 개발대회 `우수상` / 쿠킹타이머 / by STMicroelectronics
     - [Repo](https://github.com/d-h-k/STM32F7508) 
-  - 물류센터 자율주행 군집로봇 `최우수작품상` / by 한컴MDS
+  - 물류센터 자율주행 군집로봇 `최우수작품상` / by 한컴아카데미
     - [Demo](https://youtu.be/grBtP7XDKew)  / [오픈로보틱스 발표](https://youtu.be/XcbJECUckB8) 
 - before 2018
   - ICT 창업경진대회 `우수상` / 스마트 밀폐교반기 씰링장치 / by 미래창조과학부 장관
