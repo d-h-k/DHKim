@@ -76,6 +76,8 @@ v1 phase 에서 퀄리티가 만족스럽다면?? 만들어드릴 분들 >> 호�
 
 ## Presentation & Award
 - 2023
+  - 23 Open Source Contribution Academy
+    - Fosslight Hub Days 미니발표 : 슬기로운 자바코딩 `가제/예정`
   - `(예정)` 지속가능한 프로덕트와 개발을 위하여 / 테크톡
 - 2021 
   - 리눅스로 개발하기 / 코드스쿼드 테크톡
